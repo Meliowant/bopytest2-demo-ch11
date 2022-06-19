@@ -1,0 +1,5 @@
+__pytest__/
+*.pyc
+*.lock
+*.log
+*.gz
